@@ -1,0 +1,103 @@
+<studien>
+	<studie>
+		<name>Katharinas Studie</name>
+		<year>2007-01-01</year>
+		<tests>
+			<test>Tower of London</test>
+			<test>Rohrschach</test>
+			<test>HaWIK</test>
+		</tests>
+	</studie>
+	<studie>
+		<name>Mattias' Studie</name>
+		<year>2009-01-01</year>
+		<tests>
+			<test>Rohrschach</test>
+			<test>Elektroschock</test>
+			<test>HaWIK</test>
+		</tests>
+	</studie>
+	<studie>
+		<name>Lucias Studie</name>
+		<year>2009-01-01</year>
+		<tests>
+			<test>Rohrschach</test>
+			<test>Elektroschock</test>
+			<test>HaWIK</test>
+		</tests>
+	</studie>
+	<studie>
+		<name>Bjoerns ethisch fragwuerdige Studie</name>
+		<year>2009-01-01</year>
+		<tests>
+			<test>Rohrschach</test>
+			<test>HaWIK</test>
+			<test>Tower of London</test>
+		</tests>
+	</studie>
+	<studie>
+		<name>Studie5</name>
+		<year>2009-01-01</year>
+		<tests>
+			<test>HaWIK</test>
+			<test>Rohrschach</test>
+		</tests>
+	</studie>
+	<studie>
+		<name>Studie6</name>
+		<year>2007-01-01</year>
+		<tests>
+			<test>Tower of London</test>
+			<test>HaWIK</test>
+			<test>Rohrschach</test>
+		</tests>
+	</studie>
+	<studie>
+		<name>Studie7</name>
+		<year>2007-01-01</year>
+		<tests>
+			<test>HaWIK</test>
+			<test>Tower of London</test>
+		</tests>
+	</studie>
+	<studie>
+		<name>Studie8</name>
+		<year>2010-01-01</year>
+		<tests>
+			<test>Elektroschock</test>
+		</tests>
+	</studie>
+	<studie>
+		<name>Studie9</name>
+		<year>2010-01-01</year>
+		<tests>
+			<test>Elektroschock</test>
+		</tests>
+	</studie>
+	<studie>
+		<name>Studie10</name>
+		<year>2007-01-01</year>
+		<tests>
+			<test>HaWIK</test>
+			<test>Elektroschock</test>
+		</tests>
+	</studie>
+	<studie>
+		<name>Studie11</name>
+		<year>2009-01-01</year>
+		<tests>
+			<test>Tower of London</test>
+			<test>Elektroschock</test>
+			<test>Rohrschach</test>
+		</tests>
+	</studie>
+	<studie>
+		<name>Studie12</name>
+		<year>2009-01-01</year>
+		<tests>
+			<test>Elektroschock</test>
+			<test>Tower of London</test>
+			<test>Rohrschach</test>
+		</tests>
+	</studie>
+</studien>

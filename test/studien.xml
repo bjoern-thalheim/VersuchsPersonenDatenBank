@@ -1,0 +1,49 @@
+<studien>
+  <studie>
+    <name>Studie 1</name>
+    <year>2010-01-01</year>
+    <tests>
+      <test>Tower of London</test>
+      <test>test 1</test>
+    </tests>
+  </studie>
+  <studie>
+    <year>2009-01-01</year>
+    <name>Studie 2</name>
+  </studie>
+  <studie>
+    <year>2008-01-01</year>
+    <name>Studie 3</name>
+  </studie>
+  <studie>
+    <year>2007-01-01</year>
+    <name>Studie 4</name>
+    <tests>
+      <test>Rorschach</test>
+    </tests>
+  </studie>
+  <studie>
+    <year>2006-01-01</year>
+    <name>Studie 5</name>
+  </studie>
+  <studie>
+    <year>2005-01-01</year>
+    <name>Studie 6</name>
+  </studie>
+  <studie>
+    <year>2004-01-01</year>
+    <name>Studie 7</name>
+  </studie>
+  <studie>
+    <year>2003-01-01</year>
+    <name>Studie 8</name>
+  </studie>
+  <studie>
+    <year>2002-01-01</year>
+    <name>Studie 9</name>
+  </studie>
+  <studie>
+    <year>2001-01-01</year>
+    <name>Studie 10</name>
+  </studie>
+</studien>

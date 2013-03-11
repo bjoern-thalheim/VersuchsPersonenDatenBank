@@ -1,0 +1,32 @@
+<tests>
+  <test>
+    <name>test 1</name>
+  </test>
+  <test>
+    <name>test 2</name>
+  </test>
+  <test>
+    <name>test 3</name>
+  </test>
+  <test>
+    <name>test 4</name>
+  </test>
+  <test>
+    <name>test 5</name>
+  </test>
+  <test>
+    <name>test 6</name>
+  </test>
+  <test>
+    <name>test 7</name>
+  </test>
+  <test>
+    <name>test 8</name>
+  </test>
+  <test>
+    <name>test 9</name>
+  </test>
+  <test>
+    <name>test 10</name>
+  </test>
+</tests>

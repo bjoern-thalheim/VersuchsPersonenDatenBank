@@ -1,0 +1,48 @@
+<versuchspersonen>
+  <versuchsperson>
+    <nachname>Wurst</nachname>
+    <vorname>Hans</vorname>
+    <geschlecht>MAENNLICH</geschlecht>
+    <emailadresse>hans.wurst@email.de</emailadresse>
+    <geburtsdatum>1982-01-21</geburtsdatum>
+    <studien>
+      <studie>Studie 1</studie>
+      <studie>Studie 3</studie>
+    </studien>
+    <adresse>
+    	<strasse>Riesaer Straße 5</strasse>
+    	<plz>01129</plz>
+    	<ort>Dresden</ort>
+    </adresse>
+    <inStudie>true</inStudie>
+    <letzterKontakt>2009-04-01</letzterKontakt>
+    <altersklasse>ERWACHSENER</altersklasse>
+    <bildung>
+    	<schulabschluss>ABITUR</schulabschluss>
+    	<genaueAngabe>Ernst-August-Gymnasium</genaueAngabe>
+    	<ausbildungsjahre>13</ausbildungsjahre>
+    </bildung>
+  </versuchsperson>
+  <versuchsperson>
+    <nachname>Lustig</nachname>
+    <vorname>Petra</vorname>
+    <geschlecht>WEIBLICH</geschlecht>
+    <studien>
+      <studie>Studie 2</studie>
+    </studien>
+    <adresse>
+    	<strasse>Augsburger Straße 57</strasse>
+    	<plz>01309</plz>
+    	<ort>Dresden</ort>
+    </adresse>
+    <geburtsdatum>1983-05-09</geburtsdatum>
+    <inStudie>false</inStudie>
+    <emailadresse>petra.lustig@email.de</emailadresse>
+    <letzterKontakt>2010-04-01</letzterKontakt>
+    <altersklasse>KIND</altersklasse>
+    <bildung>
+    	<genaueAngabe>Ernst-August-Gesamtschule</genaueAngabe>
+    	<schulform>HAUPTSCHULE</schulform>
+    </bildung>
+  </versuchsperson>
+</versuchspersonen>
