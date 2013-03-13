@@ -22,11 +22,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>tomcat-1.2.0-src-groovy</name>
-			<type>2</type>
-			<location>/Users/bjoern/.grails/1.2.0/projects/vpdb/plugins/tomcat-1.2.0/src/groovy</location>
-		</link>
-	</linkedResources>
 </projectDescription>
