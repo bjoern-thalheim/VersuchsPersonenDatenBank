@@ -21,7 +21,7 @@ class ExportController {
 		List fields
 		Map labels = ["nachname": "Name", "vorname": "Vorname", "adresse": "Adresse", "geschlecht":"Geschlecht", 
 		              "geburtsdatum":"Geburtsdatum", "telefonnummer":"Telefonnummer", "emailadresse":"EMail" ,
-		              "inStudie":"In Studie eingeschlossen", "blacklisted":"Schwarze Liste", 
+		              "inStudie":"In Rekrutierungs-Liste aufgenommen", "blacklisted":"Schwarze Liste", 
 					  "letzterKontakt":"Letzer Kontakt", "letzterKontaktNotizen":"Letzter Kontakt Notizen", 
 					  "besonderheiten":"Besonderheiten", "altersklasse":"Schueler oder Erwachsener", 
 					  "kind":"Bildung Schueler", "erwachsener":"Bildung Erwachsener", "studien": "Studien" ]

@@ -56,7 +56,7 @@ class Versuchsperson {
 		result.append("Adresse: " + adresse + "\n")
 		result.append("Geburtstag: " + geburtsdatum + "\n")
 		result.append("Letzter Kontakt: " + letzterKontakt + ", Notizen: " + letzterKontaktNotizen + "\n")
-		result.append("In Studie eingeschlossen: " + inStudie + "\n")
+		result.append("In Rekrutierungs-Liste aufgenommen: " + inStudie + "\n")
 		result.append("Schwarze Liste: " + blacklisted + "\n")
 		result.append("Besonderheiten: " + besonderheiten + "\n")
 		result.append("Geschlecht: " + geschlecht + "\n")
